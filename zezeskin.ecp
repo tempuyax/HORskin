@@ -1,0 +1,39 @@
+;Do not modify this file!!!
+Easy Code 1.07.0.0009
+Begin ECProject = zezeskin
+  EasyCodeProject=0
+  FileType=0
+  Processor=.486
+  Align=4
+  DebugInfo=0
+  AsmFiles=1
+  GlobalVariables=1
+  MLOptions=/X /nologo /c /coff /Cp /Zp4
+  LinkOptions=
+  MMXOptions=0
+  CommonControls=1
+  RichEdit=0
+  PackFile=1
+  Macros=1
+  ECMacros=1
+  Unicode=0
+  Masm32Unicode=0
+  StartupWindow=winblitz
+  Title=Easy Code classic project
+  Resources=zezeskin.ecr
+  Module=winblitz.asm
+  Include=Kernel32.inc
+  Include=User32.inc
+  Include=comctl32.inc
+  Include=gdi32.inc
+  Include=masm32.inc
+  Include=ole32.inc
+  Include=shell32.inc
+  Library=Kernel32.lib
+  Library=User32.lib
+  Library=comctl32.lib
+  Library=gdi32.lib
+  Library=masm32.lib
+  Library=ole32.lib
+  Library=shell32.lib
+End

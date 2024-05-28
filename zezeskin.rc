@@ -1,0 +1,38 @@
+#include "zezeskin.h"
+
+IDS_ICON                      ICON	DISCARDABLE	"Res\\winlogo.ico"
+IDS_SKIN                      BITMAP	DISCARDABLE	"Res\\FOTOKU.bmp"
+
+
+IDS_REGION RT_FILEDATA DISCARDABLE "Res\\fotoku.rgn"
+
+IDR_VERSION VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x2L
+ FILEFLAGS 0x0L
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904E4"
+        BEGIN
+            VALUE "Comments", "Programmed in assembly with Easy Code\0"
+            VALUE "CompanyName", "personal\0"
+            VALUE "FileDescription", "Untuk Menampilkan Logo Di kanan Atas Layar Komputer Anda.....\0"
+            VALUE "FileVersion", "1.00.0.0001\0"
+            VALUE "InternalName", "zezeskin\0"
+            VALUE "LegalCopyright", "Non Copyright © 2010 personal\0"
+            VALUE "OriginalFilename", "zezeskin.exe\0"
+            VALUE "ProductName", "zezeskin\0"
+            VALUE "ProductVersion", "1.00.0.0001\0"
+            VALUE "SpecialBuild", "13 July 2010\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0409, 1252
+    END
+END
