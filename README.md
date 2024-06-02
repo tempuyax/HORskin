@@ -16,9 +16,10 @@ dunia.
 
 ![image](HUB_1.png)
 <i>(gbr.1) ScreenShoot Oppo A55</i>
+<br />
 <b>Melalui google search, cari github dan pilih
 untuk membuka web nya</b>
-
+<br>
 - Membuka github.com
 <p align=justify>
 Tekan kata github dari hasil pencarian dan pilih 
@@ -27,5 +28,7 @@ chrome browser di window bagian bawah.
 
 ![image](HUB_2.png)
 <i>(gbr.2) ScreenShoot Oppo A55</i>
+<br/>
 <b>Pilih browser standar android, biasanya adalah
  chrome</b>
+<br>
