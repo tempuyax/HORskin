@@ -16,10 +16,13 @@ dunia.
 
 ![image](HUB_1.png)
 <i>(gbr.1) ScreenShoot Oppo A55</i>
-<br />
+<br/>
 <b>Melalui google search, cari github dan pilih
 untuk membuka web nya</b>
 <br>
+
+
+
 - Membuka github.com
 <p align=justify>
 Tekan kata github dari hasil pencarian dan pilih 
@@ -32,3 +35,18 @@ chrome browser di window bagian bawah.
 <b>Pilih browser standar android, biasanya adalah
  chrome</b>
 <br>
+
+- Dashboard github.com
+<p align=justify>
+Diasumsikan anda sudah meregister dan mendapatkan 
+akun di github.com,
+maka anda akan dibawa masuk ke halaman 
+<b>dashboard</b> dibawah ini
+</p>
+
+![image](HUB_3.png)
+<i>(gbr.3) ScreenShoot Oppo A55</i>
+<br/>
+<b>Tampilan Dashboard Github.com</b>
+<br>
+
