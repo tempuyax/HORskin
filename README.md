@@ -9,7 +9,7 @@ menggunakan perintah <b>git</b> di lokal
 <i>system android</i>. Dengan adanya aplikasi 
 imulasi text command, yaitu <b><i>termux</i></b>, 
 maka git dapat berjalan dengan baik, 
-sama seperti menggunakan PC yg biasa
+sama seperti menggunakan PC biasa yang
 dilakukan para programer di seluruh 
 dunia.
 </p>
@@ -20,8 +20,6 @@ dunia.
 <b>Melalui google search, cari github dan pilih
 untuk membuka web nya</b>
 <br>
-
-
 
 - Membuka github.com
 <p align=justify>
@@ -36,12 +34,18 @@ chrome browser di window bagian bawah.
  chrome</b>
 <br>
 
+<p align=justify>
+Abaikan jika tampilan gambar berbeda, dari sisi 
+backgraund maupun status pilihan aplikasi android 
+anda, intinya pilih lah yang browser. 
+</p>
+
 - Dashboard github.com
 <p align=justify>
 Diasumsikan anda sudah meregister dan mendapatkan 
 akun di github.com,
 maka anda akan dibawa masuk ke halaman 
-<b>dashboard</b> dibawah ini
+<b>dashboard</b> dibawah ini.
 </p>
 
 ![image](HUB_3.png)
@@ -50,3 +54,23 @@ maka anda akan dibawa masuk ke halaman
 <b>Tampilan Dashboard Github.com</b>
 <br>
 
+<p align=justify>
+Bagi anda sebagai akun baru, saat membuka 
+GitHub tampak ada perbedaan. Pada gbr.3
+terlihat *Repository* sudah banyak saya buat.
+</p>
+
+- Ke Menu Your Repositories
+![image](HUB_4.png)
+<i>(gbr.4) ScreenShoot Oppo A55</i>
+<br/>
+<b>Sentuh pada foto akun di pojok kanan atas, 
+untuk menampilkan Pilihan menu</b>
+<br>
+
+![image](HUB_5.png)
+<i>(gbr.5) ScreenShoot Oppo A55</i>
+<br/>
+<b>Sentuh pada kotak hijau New 
+</b>
+<br>
