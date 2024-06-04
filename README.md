@@ -57,20 +57,29 @@ maka anda akan dibawa masuk ke halaman
 <p align=justify>
 Bagi anda sebagai akun baru, saat membuka 
 GitHub tampak ada perbedaan. Pada gbr.3
-terlihat *Repository* sudah banyak saya buat.
+terlihat <b>Repository</b> sudah banyak saya buat.
 </p>
 
 - Ke Menu Your Repositories
+<p align=justify>
+Bagi anda sebagai akun baru, saat membuka 
+GitHub tampak ada perbedaan. Pada gbr.3
+terlihat <b>Repository</b> sudah banyak saya buat.
+</p>
+
 ![image](HUB_4.png)
 <i>(gbr.4) ScreenShoot Oppo A55</i>
 <br/>
-<b>Sentuh pada foto akun di pojok kanan atas, 
-untuk menampilkan Pilihan menu</b>
+<b>
+Sentuh pada foto akun di pojok kanan atas, 
+untuk menampilkan Pilihan menu
+</b>
 <br>
 
 ![image](HUB_5.png)
 <i>(gbr.5) ScreenShoot Oppo A55</i>
 <br/>
-<b>Sentuh pada kotak hijau New 
+<b>
+Sentuh pada kotak hijau New 
 </b>
 <br>
