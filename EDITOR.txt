@@ -1,2 +1,2 @@
-Editor	: Pahor Mustaly
-Date 	: Juni 2024
+'Editor	: Pahor Mustaly'
+'Date 	: Juni 2024'

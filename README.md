@@ -1,5 +1,4 @@
 #### HORskin
-![text](EDITOR.txt)
 
 - Mencari github.com
 <p align=justify>
