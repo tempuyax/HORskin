@@ -1,5 +1,8 @@
 #### HORskin
 
+`Editor : Pahor Mustaly`
+`Date : Juni 2024`
+
 - Mencari github.com
 <p align=justify>
 Repo ini adalah contoh cara 
