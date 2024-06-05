@@ -1,4 +1,5 @@
 #### HORskin
+![text](EDITOR.txt)
 
 - Mencari github.com
 <p align=justify>
@@ -83,3 +84,5 @@ untuk menampilkan Pilihan menu
 Sentuh pada kotak hijau New 
 </b>
 <br>
+
+
