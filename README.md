@@ -1,7 +1,7 @@
 #### HORskin
 
-`Editor : Pahor Mustaly`
-`Date : Juni 2024`
+<br/>`Editor 	: Pahor Mustaly`<br>
+<br/>`Date 	: Juni 2024`<br>
 
 - Mencari github.com
 <p align=justify>
@@ -57,27 +57,34 @@ maka anda akan dibawa masuk ke halaman
 <b>Tampilan Dashboard Github.com</b>
 <br>
 
-<p align=justify>
-Bagi anda sebagai akun baru, saat membuka 
-GitHub tampak ada perbedaan. Pada gbr.3
-terlihat <b>Repository</b> sudah banyak saya buat.
-</p>
+<p align=justify> Bagi anda sebagai akun baru, 
+saat membuka GitHub tampak ada perbedaan. Pada 
+gbr.3 terlihat <b>Repository</b> sudah banyak 
+saya buat. </p>
 
-- Ke Menu Your Repositories
-<p align=justify>
-Bagi anda sebagai akun baru, saat membuka 
-GitHub tampak ada perbedaan. Pada gbr.3
-terlihat <b>Repository</b> sudah banyak saya buat.
+- Ke Menu Your Repositories 
+<p align=justify> 
+Jika anda melakukan hal diatas dengan benar, 
+menu utama github muncul dan pilihlah <b>Your 
+Repositories</b> utk masuk kemenu berikut nya. 
 </p>
 
 ![image](HUB_4.png)
-<i>(gbr.4) ScreenShoot Oppo A55</i>
-<br/>
-<b>
+<i>(gbr.4) ScreenShoot Oppo A55</i> 
+<br/> 
+<b> 
 Sentuh pada foto akun di pojok kanan atas, 
-untuk menampilkan Pilihan menu
-</b>
+untuk menampilkan Pilihan menu 
+</b> 
 <br>
+
+- Menbuat Repo Baru 
+<p align=justify> 
+Biar tidak salah faham, anggap saja Repositori itu 
+sebuah <b>File Folder</b> yang berada di Disk 
+PC kita. Perhatikan gambar di bawah ini utk 
+membuat repo baru.
+</p>
 
 ![image](HUB_5.png)
 <i>(gbr.5) ScreenShoot Oppo A55</i>
