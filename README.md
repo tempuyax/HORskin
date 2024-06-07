@@ -1,7 +1,7 @@
 #### HORskin
 
-<br/>`Editor 	: Pahor Mustaly`<br>
-<br/>`Date 	: Juni 2024`<br>
+`Editor 	<\t>: Pahor Mustaly`
+<br/>`Date 	<\t>: Juni 2024`<br>
 
 - Mencari github.com
 <p align=justify>
@@ -94,4 +94,34 @@ Sentuh pada kotak hijau New
 </b>
 <br>
 
+![image](HUB_6.png)
+<i>(gbr.6) ScreenShoot Oppo A55</i>
+<br/>
+<b>
+Sentuh pada kotak hijau New 
+</b>
+<br>
 
+![image](HUB_7.png)
+<i>(gbr.7) ScreenShoot Oppo A55</i>
+<br/>
+<b>
+Sentuh pada kotak hijau New 
+</b>
+<br>
+
+![image](HUB_8.png)
+<i>(gbr.8) ScreenShoot Oppo A55</i>
+<br/>
+<b>
+Sentuh pada kotak hijau New 
+</b>
+<br>
+
+![image](HUB_9.png)
+<i>(gbr.9) ScreenShoot Oppo A55</i>
+<br/>
+<b>
+Sentuh pada kotak hijau New 
+</b>
+<br>
