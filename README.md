@@ -1,9 +1,9 @@
 #### HORskin
 
-`Editor 	<\t>: Pahor Mustaly`
-<br/>`Date 	<\t>: Juni 2024`<br>
+`Editor 	: Pahor Mustaly`
+<br/>`Date 	: Juni 2024`<br>
 
-- Mencari github.com
+- **Mencari github.com**
 <p align=justify>
 Repo ini adalah contoh cara 
 menggunakan interaksi server 
@@ -24,7 +24,7 @@ dunia.
 untuk membuka web nya</b>
 <br>
 
-- Membuka github.com
+- **Membuka github.com**
 <p align=justify>
 Tekan kata github dari hasil pencarian dan pilih 
 chrome browser di window bagian bawah.
@@ -43,7 +43,7 @@ backgraund maupun status pilihan aplikasi android
 anda, intinya pilih lah yang browser. 
 </p>
 
-- Dashboard github.com
+- **Dashboard github.com**
 <p align=justify>
 Diasumsikan anda sudah meregister dan mendapatkan 
 akun di github.com,
@@ -62,12 +62,14 @@ saat membuka GitHub tampak ada perbedaan. Pada
 gbr.3 terlihat <b>Repository</b> sudah banyak 
 saya buat. </p>
 
-- Ke Menu Your Repositories 
-<p align=justify> 
-Jika anda melakukan hal diatas dengan benar, 
-menu utama github muncul dan pilihlah <b>Your 
-Repositories</b> utk masuk kemenu berikut nya. 
-</p>
+- **Ke Menu Your Repositories** 
+<p align=justify> Sentuh Foto 
+profil sebelah kanan atas. Jika 
+anda melakukan hal ini dengan 
+benar, maka menu utama github 
+muncul dan pilihlah <b>Your 
+Repositories</b> untuk masuk 
+ke halaman repo kita.</p>
 
 ![image](HUB_4.png)
 <i>(gbr.4) ScreenShoot Oppo A55</i> 
@@ -78,13 +80,14 @@ untuk menampilkan Pilihan menu
 </b> 
 <br>
 
-- Menbuat Repo Baru 
-<p align=justify> 
-Biar tidak salah faham, anggap saja Repositori itu 
-sebuah <b>File Folder</b> yang berada di Disk 
-PC kita. Perhatikan gambar di bawah ini utk 
-membuat repo baru.
-</p>
+- **Membuat Repo Baru** 
+<p align=justify> Apa itu 
+repositories??? Biar tidak salah 
+faham, anggap saja Repositori itu 
+sebuah <b>File Folder</b> yang 
+berada di Disk PC kita. 
+Perhatikan gambar di bawah ini 
+utk membuat repo baru. </p>
 
 ![image](HUB_5.png)
 <i>(gbr.5) ScreenShoot Oppo A55</i>
@@ -94,11 +97,17 @@ Sentuh pada kotak hijau New
 </b>
 <br>
 
+- **Halaman Setup Repository**
+<p align=justify> Pada kotak isian 
+<b>Repository new</b> ketik apa 
+saja untuk nama repo kita 
+</p>
+
 ![image](HUB_6.png)
 <i>(gbr.6) ScreenShoot Oppo A55</i>
 <br/>
 <b>
-Sentuh pada kotak hijau New 
+ini Halaman Setup repository kita
 </b>
 <br>
 
