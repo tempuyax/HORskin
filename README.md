@@ -1,7 +1,9 @@
 #### HORskin
 
-`Editor 	: Pahor Mustaly`
-<br/>`Date 	: Juni 2024`<br>
+```
+   Editor 	: Pahor Mustaly
+   Date 	: Juni 2024
+```
 
 - **Mencari github.com**
 <p align=justify>
