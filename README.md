@@ -1,10 +1,14 @@
 #### HORskin
 
 ```
-   Editor 	: Pahor Mustaly
+   Editor 	: tempuyax (Pahor Mustaly)
+   Compiler     : Macro Assambler
+   Text Editor  : EasyCode
    Date 	: Juni 2024
+   Country      : Republic of Indonesia
+   State        : North Borneo  
 ```
-
+---
 - **Mencari github.com**
 <p align=justify>
 Repo ini adalah contoh cara 
@@ -119,7 +123,7 @@ ini Halaman Setup repository kita
  opsional, hanya sekedar untuk penjelasan 
  pendek repo yang dibuat. Jangan lupa 
  Pilih centang <b>Public</b> jika ingin 
- terbuka secara umum atau c<b>Private</b> 
+ terbuka secara umum atau <b>Private</b> 
  dibuka khusus hanya untuk orang-orang 
  tertentu saja. </p>
 
@@ -151,7 +155,7 @@ Membuat Automatis Readme dan lisensi
  
  <p align=justify> jika semuanya dilakukan 
 dengan benar, maka hasilya adalah yang 
-ditunjukan gbr.9 </p>
+ditunjukan gbr.9 .</p>
 
 ![image](HUB_9.png)
 <i>(gbr.9) ScreenShoot Oppo A55</i>
