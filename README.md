@@ -101,7 +101,7 @@ Sentuh pada kotak hijau New
 
 - **Halaman Setup Repository**
 <p align=justify> Pada kotak isian 
-<b>Repository new</b> ketik apa 
+<b>Repository name</b> ketik apa 
 saja untuk nama repo kita 
 </p>
 
@@ -113,26 +113,52 @@ ini Halaman Setup repository kita
 </b>
 <br>
 
+- **Description untuk keterangan singkat** 
+ <p align=justify> Kotak isian 
+ <b>Description</b> adalah bersifat 
+ opsional, hanya sekedar untuk penjelasan 
+ pendek repo yang dibuat. Jangan lupa 
+ Pilih centang **Public** jika ingin 
+ terbuka secara umum atau **Privat** 
+ dibuka khusus hanya untuk orang-orang 
+ tertentu saja. </p>
+
 ![image](HUB_7.png)
 <i>(gbr.7) ScreenShoot Oppo A55</i>
 <br/>
 <b>
-Sentuh pada kotak hijau New 
+Pilih Repo Public atau Privat
 </b>
 <br>
+7
+- **Menyertakan file readme dan licensi** 
+ <p align=justify> scrol ke bawah, tanda 
+ centang untuk pembuatan File 
+ **README.md** dan pilihan 
+ **licensi.txt**. tekan kotak hijau 
+ **Create Repository** untuk mengakhiri.
+</p>
 
 ![image](HUB_8.png)
 <i>(gbr.8) ScreenShoot Oppo A55</i>
 <br/>
 <b>
-Sentuh pada kotak hijau New 
+Membuat Automatis Readme dan lisensi
 </b>
 <br>
+
+ **Akhir pembuatan Repository** 
+ <p align=justify> scrol ke bawah, tanda 
+ centang untuk pembuatan File 
+ **README.md** dan pilihan 
+ **licensi.txt**. tekan kotak hijau 
+ **Create Repository** untuk mengakhiri.
+</p>
 
 ![image](HUB_9.png)
 <i>(gbr.9) ScreenShoot Oppo A55</i>
 <br/>
 <b>
-Sentuh pada kotak hijau New 
+Repo sudah sukses dibuat
 </b>
 <br>
