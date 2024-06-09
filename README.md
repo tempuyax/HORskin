@@ -118,8 +118,8 @@ ini Halaman Setup repository kita
  <b>Description</b> adalah bersifat 
  opsional, hanya sekedar untuk penjelasan 
  pendek repo yang dibuat. Jangan lupa 
- Pilih centang **Public** jika ingin 
- terbuka secara umum atau **Privat** 
+ Pilih centang <b>Public</b> jika ingin 
+ terbuka secara umum atau c<b>Private</b> 
  dibuka khusus hanya untuk orang-orang 
  tertentu saja. </p>
 
@@ -130,13 +130,13 @@ ini Halaman Setup repository kita
 Pilih Repo Public atau Privat
 </b>
 <br>
-7
+
 - **Menyertakan file readme dan licensi** 
  <p align=justify> scrol ke bawah, tanda 
  centang untuk pembuatan File 
- **README.md** dan pilihan 
- **licensi.txt**. tekan kotak hijau 
- **Create Repository** untuk mengakhiri.
+ <b>README.md</b> dan pilihan 
+ <b>licensi.txt</b>. Sentuh kotak hijau 
+ <b>Create Repository</b> untuk mengakhiri.
 </p>
 
 ![image](HUB_8.png)
@@ -147,18 +147,16 @@ Membuat Automatis Readme dan lisensi
 </b>
 <br>
 
- **Akhir pembuatan Repository** 
- <p align=justify> scrol ke bawah, tanda 
- centang untuk pembuatan File 
- **README.md** dan pilihan 
- **licensi.txt**. tekan kotak hijau 
- **Create Repository** untuk mengakhiri.
-</p>
+- **Repository sukses dibuat** 
+ 
+ <p align=justify> jika semuanya dilakukan 
+dengan benar, maka hasilya adalah yang 
+ditunjukan gbr.9 </p>
 
 ![image](HUB_9.png)
 <i>(gbr.9) ScreenShoot Oppo A55</i>
 <br/>
 <b>
-Repo sudah sukses dibuat
+Tampilan baru Repo yang sukses dibuat
 </b>
 <br>
